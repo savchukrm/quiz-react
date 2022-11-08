@@ -2,7 +2,7 @@ const Footer = () => {
   return (
     <footer>
       <div>
-        create by{' '}
+        created by{' '}
         <span>
           <a
             target="_blank"
